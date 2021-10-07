@@ -1,0 +1,46 @@
+{
+    "chats": [
+        {
+            "id": 0,
+            "userOneId": 2,
+            "userTwoId": 3,
+            "messages": [
+                {
+                    "id": 0,
+                    "userId": 2,
+                    "date": "2021-10-07 14:44",
+                    "read": "2021-10-07 14.44",
+                    "text": "Hey dude!"
+                },
+                {
+                    "id": 1,
+                    "userId": 2,
+                    "date": "2021-10-07 14:44",
+                    "read": "2021-10-07 14.44",
+                    "text": "I saw you like Gloomhaven too!"
+                },
+                {
+                    "id": 2,
+                    "userId": 2,
+                    "date": "2021-10-07 14:45",
+                    "read": "2021-10-07 14.45",
+                    "text": "Did you play it through? Have you tried the expansion yet?"
+                },
+                {
+                    "id": 3,
+                    "userId": 3,
+                    "date": "2021-10-07 14:45",
+                    "read": "2021-10-07 14.45",
+                    "text": "Hey! Yeah, I love it!"
+                },
+                {
+                    "id": 4,
+                    "userId": 3,
+                    "date": "2021-10-07 14:46",
+                    "read": "2021-10-07 14.46",
+                    "text": "I'd say we've done 75% maybe?"
+                }
+            ]
+        }
+    ]
+}

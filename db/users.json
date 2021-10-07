@@ -1,0 +1,140 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "firstName": "Anna",
+            "lastName": "Andersson",
+            "email": "anna@andersson.com",
+            "nickname": "annaa",
+            "password": "placeholderPassword",
+            "favorites": {
+                "movies": [
+                    "Lord of the Rings trilogy",
+                    "Constantine",
+                    "Star Wars original trilogy",
+                    "Dune"
+                ],
+                "series": [
+                    "Game of Thrones",
+                    "Firefly",
+                    "True Blood",
+                    "Witcher"
+                ],
+                "games": [
+                    "Shadow of Mordor",
+                    "Dyson Sphere Program",
+                    "Skyrim",
+                    "Witcher 3"
+                ],
+                "boardGames": [
+                    "Terraforming Mars",
+                    "Gaia Project",
+                    "Talisman",
+                    "Scythe"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "firstName": "Benny",
+            "lastName": "Bengtsson",
+            "email": "benny@bengtsson.com",
+            "nickname": "bennyb",
+            "password": "placeholderPassword",
+            "favorites": {
+                "movies": [
+                    "Lord of the Rings trilogy",
+                    "Constantine",
+                    "Star Wars original trilogy",
+                    "Dune"
+                ],
+                "series": [
+                    "Game of Thrones",
+                    "Firefly",
+                    "True Blood",
+                    "Witcher"
+                ],
+                "games": [
+                    "Shadow of Mordor",
+                    "Dyson Sphere Program",
+                    "Skyrim",
+                    "Witcher 3"
+                ],
+                "boardGames": [
+                    "Terraforming Mars",
+                    "Gaia Project",
+                    "Talisman",
+                    "Scythe"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "firstName": "Cece",
+            "lastName": "Christiansson",
+            "email": "cece@christiansson.com",
+            "nickname": "cecec",
+            "password": "placeholderPassword",
+            "favorites": {
+                "movies": [
+                    "Lord of the Rings trilogy",
+                    "Constantine",
+                    "Star Wars original trilogy",
+                    "Dune"
+                ],
+                "series": [
+                    "Game of Thrones",
+                    "Firefly",
+                    "True Blood",
+                    "Witcher"
+                ],
+                "games": [
+                    "Shadow of Mordor",
+                    "Dyson Sphere Program",
+                    "Skyrim",
+                    "Witcher 3"
+                ],
+                "boardGames": [
+                    "Terraforming Mars",
+                    "Gaia Project",
+                    "Talisman",
+                    "Gloomhaven"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "firstName": "Daniel",
+            "lastName": "Danielsson",
+            "email": "daniel@danielsson.com",
+            "nickname": "danield",
+            "password": "placeholderPassword",
+            "favorites": {
+                "movies": [
+                    "Lord of the Rings trilogy",
+                    "Constantine",
+                    "Star Wars original trilogy",
+                    "Dune"
+                ],
+                "series": [
+                    "Game of Thrones",
+                    "Firefly",
+                    "True Blood",
+                    "Witcher"
+                ],
+                "games": [
+                    "Shadow of Mordor",
+                    "Dyson Sphere Program",
+                    "Skyrim",
+                    "Witcher 3"
+                ],
+                "boardGames": [
+                    "Terraforming Mars",
+                    "Gaia Project",
+                    "Talisman",
+                    "Gloomhaven"
+                ]
+            }
+        }
+    ]
+}
